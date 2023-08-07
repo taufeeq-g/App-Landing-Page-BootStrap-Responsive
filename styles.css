@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* NavBar */
+.nav-logo{
+    height: 30px;
+}
+
+.navbar-section{
+    background-color: #F7E6C4;
+}
+
+/* Hero Section */
+.hero-section{
+    background-color: #FFF6DC;
+}
+.hero-image{
+    height: 500px;
+    transition: 0.5s ease-out;
+    padding-left: 100px;
+}
+
+.hero-image:hover{
+    transform: translateX(15px);
+}
+
+.features-section{
+    background-color: #F7E6C4;
+}
+.features-section h3{
+    color: #862B0D !important;
+}
+.features-section svg{
+    fill: #FFF6DC;
+}
+.icon-square{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #C2703D !important;
+}
+
+/* Carousel Section */
+.carousel-section{
+    background-color: #EDE5DC;
+}
+
+/* Testimonials Section */
+.testimonial-section{
+    background-color: #FFF6DC !important;
+}
+
+/* Footer */
+.footer{
+    background-color: #F7E6C4;
+}
